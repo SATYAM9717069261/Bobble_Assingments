@@ -3,5 +3,5 @@
 
 Question1 : Permutations
 
-Program is written in C++. So compile this program using this command < g++ Permutation.cpp -o permutation >
+Program is written in C++. So compile this program using this command < g++ Permutations.cpp -o permutation >
 After Compilation use < ./permuation (input data) >
